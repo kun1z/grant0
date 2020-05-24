@@ -1,0 +1,7 @@
+1. Create a new S3 bucket and add 2 folders to it: "boot" and "logs".
+2. Upload the files found in /grant0/ along with the runme.sh script found in this folder into the "boot" folder.
+3. When creating your EC2 Instances, on "Step 3. Configure Instance" go to the bottom and select "User Data" -> "As file" and select the boot.sh file.
+4. Edit the scripts and main.c and change "your_bucket_name" to the bucket name you created.
+
+When your instance(s) boot up, they should automatically update, automatically install GCC, clone your "boot" folder, and run the runme.sh script.
+The runme.sh script will compile & run the program, and then upload 1 or more logs depending on success of failure.
