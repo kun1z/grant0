@@ -1,0 +1,365 @@
+Starting runme.sh at Sun May 24 21:28:57 UTC 2020
+--------------------------------------------------
+Compiling...
+Executing compute at Sun May 24 21:28:57 UTC 2020
+INFO: Monitoring for termination
+Sun May 24 21:28:57 2020 > Starting
+Threads: 96
+Starting thread: 0
+Starting thread: 2
+Starting thread: 3
+Starting thread: 1
+Starting thread: 4
+Starting thread: 6
+Starting thread: 5
+Starting thread: 14
+Starting thread: 9
+Starting thread: 15
+Starting thread: 17
+Starting thread: 16
+Starting thread: 11
+Starting thread: 31
+Starting thread: 21
+Starting thread: 12
+Starting thread: 7
+Starting thread: 8
+Starting thread: 10
+Starting thread: 27
+Starting thread: 13
+Starting thread: 39
+Starting thread: 32
+Starting thread: 18
+Starting thread: 19
+Starting thread: 79
+Starting thread: 68
+Starting thread: 35
+Starting thread: 57
+Starting thread: 44
+Starting thread: 20
+Starting thread: 72
+Starting thread: 36
+Starting thread: 56
+Starting thread: 25
+Starting thread: 63
+Starting thread: 41
+Starting thread: 45
+Starting thread: 55
+Starting thread: 80
+Starting thread: 71
+Starting thread: 91
+Starting thread: 67
+Starting thread: 93
+Starting thread: 86
+Starting thread: 43
+Starting thread: 64
+Starting thread: 23
+Starting thread: 74
+Starting thread: 22
+Starting thread: 59
+Starting thread: 33
+Starting thread: 70
+Starting thread: 49
+Starting thread: 88
+Starting thread: 51
+Starting thread: 24
+Starting thread: 75
+Starting thread: 81
+Starting thread: 90
+Starting thread: 73
+Starting thread: 62
+Starting thread: 69
+Starting thread: 87
+Starting thread: 58
+Starting thread: 46
+Starting thread: 76
+Starting thread: 66
+Starting thread: 47
+Starting thread: 48
+Starting thread: 42
+Starting thread: 38
+Starting thread: 94
+Starting thread: 77
+Starting thread: 53
+Starting thread: 26
+Starting thread: 84
+Starting thread: 92
+Starting thread: 37
+Starting thread: 65
+Starting thread: 95
+Starting thread: 60
+Starting thread: 40
+Starting thread: 34
+Starting thread: 54
+Starting thread: 83
+Starting thread: 52
+Starting thread: 28
+Starting thread: 78
+Starting thread: 50
+Starting thread: 30
+Starting thread: 61
+Starting thread: 29
+Starting thread: 89
+Starting thread: 82
+Starting thread: 85
+Samples: 0.3 billion (8.1 mps) - result: 0.6534257307648659
+Samples: 26.3 billion (397.8 mps) - result: 0.6534309289133062
+Samples: 52.3 billion (527.7 mps) - result: 0.6534259368402836
+Samples: 78.1 billion (590.6 mps) - result: 0.6534262994925181
+Samples: 103.6 billion (626.7 mps) - result: 0.6534264498424036
+Samples: 129.7 billion (653.5 mps) - result: 0.6534271743572770
+Samples: 155.4 billion (671.5 mps) - result: 0.6534275008761203
+Samples: 180.9 billion (683.9 mps) - result: 0.6534277085679133
+Samples: 207.5 billion (697.2 mps) - result: 0.6534279674089202
+Samples: 233.5 billion (706.2 mps) - result: 0.6534276458980708
+Samples: 260.1 billion (715.0 mps) - result: 0.6534277035732695
+Samples: 286.7 billion (722.4 mps) - result: 0.6534279124734553
+Samples: 312.2 billion (726.1 mps) - result: 0.6534276971511819
+Samples: 338.0 billion (729.9 mps) - result: 0.6534274470466437
+Samples: 382.0 billion (769.6 mps) - result: 0.6534277405576729
+Samples: 408.6 billion (771.6 mps) - result: 0.6534274949810900
+Samples: 433.8 billion (771.1 mps) - result: 0.6534273485182831
+Samples: 459.6 billion (771.5 mps) - result: 0.6534273034444723
+Samples: 484.8 billion (771.1 mps) - result: 0.6534273755898573
+Samples: 510.6 billion (771.5 mps) - result: 0.6534272655061242
+Samples: 536.3 billion (771.9 mps) - result: 0.6534270120670905
+Samples: 561.6 billion (771.5 mps) - result: 0.6534269092369461
+Samples: 587.1 billion (771.4 mps) - result: 0.6534271502162994
+Samples: 612.8 billion (771.8 mps) - result: 0.6534271557675451
+Samples: 638.9 billion (772.4 mps) - result: 0.6534269448776706
+Samples: 663.8 billion (771.7 mps) - result: 0.6534268996609376
+Samples: 689.6 billion (772.0 mps) - result: 0.6534269249023933
+Samples: 715.4 billion (772.2 mps) - result: 0.6534269315929730
+Samples: 740.6 billion (771.9 mps) - result: 0.6534269777365939
+Samples: 766.4 billion (772.2 mps) - result: 0.6534269794743449
+Samples: 792.2 billion (772.4 mps) - result: 0.6534271433858579
+Samples: 816.8 billion (771.6 mps) - result: 0.6534271432546519
+Samples: 840.2 billion (769.6 mps) - result: 0.6534270397271401
+Samples: 863.6 billion (767.8 mps) - result: 0.6534270459938335
+Samples: 887.7 billion (766.7 mps) - result: 0.6534269656901511
+Samples: 912.7 billion (766.4 mps) - result: 0.6534268878597547
+Samples: 938.2 billion (766.5 mps) - result: 0.6534268607610626
+Samples: 963.7 billion (766.6 mps) - result: 0.6534269247473864
+Samples: 989.5 billion (766.9 mps) - result: 0.6534270036387512
+Samples: 1015.5 billion (767.4 mps) - result: 0.6534268339333192
+Samples: 1041.3 billion (767.7 mps) - result: 0.6534267311316002
+Samples: 1067.0 billion (768.0 mps) - result: 0.6534267275363395
+Samples: 1093.1 billion (768.4 mps) - result: 0.6534267140201098
+Samples: 1119.4 billion (769.0 mps) - result: 0.6534266517388163
+Samples: 1145.7 billion (769.6 mps) - result: 0.6534267417953856
+Samples: 1171.5 billion (769.8 mps) - result: 0.6534267056180211
+Samples: 1197.5 billion (770.2 mps) - result: 0.6534267377314600
+Samples: 1223.3 billion (770.4 mps) - result: 0.6534267960254014
+Samples: 1249.0 billion (770.5 mps) - result: 0.6534268387396976
+Samples: 1274.8 billion (770.7 mps) - result: 0.6534268260441420
+Samples: 1300.8 billion (771.0 mps) - result: 0.6534267571361546
+Samples: 1326.6 billion (771.2 mps) - result: 0.6534267671719851
+Samples: 1352.4 billion (771.3 mps) - result: 0.6534268627754395
+Samples: 1378.1 billion (771.5 mps) - result: 0.6534267901484667
+Samples: 1403.9 billion (771.6 mps) - result: 0.6534268247494278
+Samples: 1429.7 billion (771.8 mps) - result: 0.6534268551534430
+Samples: 1455.5 billion (771.9 mps) - result: 0.6534269093843305
+Samples: 1481.2 billion (772.0 mps) - result: 0.6534268663113922
+Samples: 1506.7 billion (772.0 mps) - result: 0.6534268589796186
+Samples: 1532.5 billion (772.1 mps) - result: 0.6534268105789865
+Samples: 1558.3 billion (772.2 mps) - result: 0.6534268000483204
+Samples: 1584.0 billion (772.3 mps) - result: 0.6534268025014032
+Samples: 1609.8 billion (772.5 mps) - result: 0.6534268817944647
+Samples: 1635.6 billion (772.6 mps) - result: 0.6534268679022398
+Samples: 1661.3 billion (772.7 mps) - result: 0.6534268885386223
+Samples: 1687.1 billion (772.8 mps) - result: 0.6534268486044572
+Samples: 1712.6 billion (772.7 mps) - result: 0.6534268312932789
+Samples: 1738.1 billion (772.7 mps) - result: 0.6534268615955782
+Samples: 1763.9 billion (772.8 mps) - result: 0.6534267867432167
+Samples: 1789.4 billion (772.8 mps) - result: 0.6534267393757578
+Samples: 1815.2 billion (772.9 mps) - result: 0.6534266846865433
+Samples: 1840.4 billion (772.7 mps) - result: 0.6534266677851350
+Samples: 1865.9 billion (772.7 mps) - result: 0.6534266070334273
+Samples: 1891.7 billion (772.8 mps) - result: 0.6534266173601684
+Samples: 1917.4 billion (772.9 mps) - result: 0.6534267085145814
+Samples: 1943.2 billion (773.0 mps) - result: 0.6534267026987141
+Samples: 1969.0 billion (773.1 mps) - result: 0.6534266644866595
+Samples: 1994.7 billion (773.1 mps) - result: 0.6534265956192579
+Samples: 2020.2 billion (773.1 mps) - result: 0.6534265511246745
+Samples: 2046.0 billion (773.2 mps) - result: 0.6534265826031765
+Samples: 2071.5 billion (773.2 mps) - result: 0.6534265817052630
+Samples: 2096.7 billion (773.0 mps) - result: 0.6534265737893327
+Samples: 2122.5 billion (773.1 mps) - result: 0.6534265648708854
+Samples: 2148.0 billion (773.1 mps) - result: 0.6534265390583550
+Samples: 2173.8 billion (773.2 mps) - result: 0.6534265208479673
+Samples: 2199.3 billion (773.1 mps) - result: 0.6534264599773694
+Samples: 2225.1 billion (773.2 mps) - result: 0.6534263952408831
+Samples: 2250.6 billion (773.2 mps) - result: 0.6534264196045448
+Samples: 2276.3 billion (773.3 mps) - result: 0.6534264390431520
+Samples: 2301.8 billion (773.2 mps) - result: 0.6534263955460693
+Samples: 2327.6 billion (773.3 mps) - result: 0.6534263792192870
+Samples: 2353.1 billion (773.3 mps) - result: 0.6534263813945085
+Samples: 2378.3 billion (773.2 mps) - result: 0.6534263853278036
+Samples: 2403.8 billion (773.1 mps) - result: 0.6534264259751718
+Samples: 2429.6 billion (773.2 mps) - result: 0.6534264016179910
+Samples: 2455.1 billion (773.2 mps) - result: 0.6534264030372050
+Samples: 2480.9 billion (773.3 mps) - result: 0.6534263314439431
+Samples: 2506.7 billion (773.3 mps) - result: 0.6534263480017446
+Samples: 2532.4 billion (773.4 mps) - result: 0.6534263643208881
+Samples: 2558.2 billion (773.4 mps) - result: 0.6534263338565295
+Samples: 2583.7 billion (773.4 mps) - result: 0.6534263434777786
+Samples: 2609.2 billion (773.4 mps) - result: 0.6534263614657116
+Samples: 2635.0 billion (773.4 mps) - result: 0.6534263874531648
+Samples: 2660.5 billion (773.4 mps) - result: 0.6534264031378547
+Samples: 2686.2 billion (773.5 mps) - result: 0.6534263799738530
+Samples: 2712.0 billion (773.5 mps) - result: 0.6534263724952531
+Samples: 2737.8 billion (773.6 mps) - result: 0.6534263555945596
+Samples: 2763.5 billion (773.6 mps) - result: 0.6534262899159227
+Samples: 2789.3 billion (773.7 mps) - result: 0.6534262794921321
+Samples: 2815.1 billion (773.7 mps) - result: 0.6534262600910695
+Samples: 2840.9 billion (773.8 mps) - result: 0.6534262763764518
+Samples: 2866.6 billion (773.8 mps) - result: 0.6534263055266814
+Samples: 2892.4 billion (773.9 mps) - result: 0.6534263263687733
+Samples: 2918.2 billion (773.9 mps) - result: 0.6534263417940330
+Samples: 2943.9 billion (774.0 mps) - result: 0.6534262882876610
+Samples: 2969.7 billion (774.0 mps) - result: 0.6534262869958635
+Samples: 2995.5 billion (774.1 mps) - result: 0.6534263024248336
+Samples: 3021.2 billion (774.1 mps) - result: 0.6534262678338946
+Samples: 3046.7 billion (774.1 mps) - result: 0.6534262663519855
+Samples: 3072.5 billion (774.1 mps) - result: 0.6534262871623258
+Samples: 3098.3 billion (774.2 mps) - result: 0.6534262471342548
+Samples: 3124.1 billion (774.2 mps) - result: 0.6534262855869657
+Samples: 3149.8 billion (774.3 mps) - result: 0.6534262969524801
+Samples: 3175.6 billion (774.3 mps) - result: 0.6534262790249398
+Samples: 3201.1 billion (774.3 mps) - result: 0.6534263008464307
+Samples: 3226.9 billion (774.3 mps) - result: 0.6534262994757836
+Samples: 3252.4 billion (774.3 mps) - result: 0.6534262740856652
+Samples: 3278.1 billion (774.3 mps) - result: 0.6534262958870114
+Samples: 3303.9 billion (774.4 mps) - result: 0.6534263140306743
+Samples: 3329.7 billion (774.4 mps) - result: 0.6534263123597461
+Samples: 3355.4 billion (774.4 mps) - result: 0.6534263386189938
+Samples: 3381.2 billion (774.5 mps) - result: 0.6534263373666972
+Samples: 3406.7 billion (774.5 mps) - result: 0.6534263572086375
+Samples: 3432.2 billion (774.4 mps) - result: 0.6534263694854958
+Samples: 3458.0 billion (774.5 mps) - result: 0.6534263637232667
+Samples: 3483.8 billion (774.5 mps) - result: 0.6534263901590456
+Samples: 3509.5 billion (774.5 mps) - result: 0.6534264154868428
+Samples: 3535.0 billion (774.5 mps) - result: 0.6534264054839908
+Samples: 3560.8 billion (774.5 mps) - result: 0.6534264400738997
+Samples: 3586.6 billion (774.6 mps) - result: 0.6534264420309932
+Samples: 3612.3 billion (774.6 mps) - result: 0.6534264528829218
+Samples: 3638.1 billion (774.6 mps) - result: 0.6534264720880149
+Samples: 3663.9 billion (774.7 mps) - result: 0.6534264889363622
+Samples: 3689.6 billion (774.7 mps) - result: 0.6534265003185048
+Samples: 3715.1 billion (774.7 mps) - result: 0.6534265131293930
+Samples: 3740.9 billion (774.7 mps) - result: 0.6534265053838633
+Samples: 3766.7 billion (774.7 mps) - result: 0.6534264758332795
+Samples: 3792.5 billion (774.8 mps) - result: 0.6534264403973344
+Samples: 3818.2 billion (774.8 mps) - result: 0.6534264287573502
+Samples: 3844.0 billion (774.8 mps) - result: 0.6534264032817420
+Samples: 3869.5 billion (774.8 mps) - result: 0.6534264167829537
+Samples: 3895.3 billion (774.8 mps) - result: 0.6534264196450036
+Samples: 3921.0 billion (774.9 mps) - result: 0.6534264242026487
+Samples: 3946.8 billion (774.9 mps) - result: 0.6534264374767336
+Samples: 3972.6 billion (774.9 mps) - result: 0.6534264131454638
+Samples: 3998.1 billion (774.9 mps) - result: 0.6534264302757865
+t32> Thread terminating after 86.0 minutes
+t43> Thread terminating after 86.0 minutes
+t15> Thread terminating after 86.0 minutes
+t55> Thread terminating after 86.0 minutes
+t58> Thread terminating after 86.0 minutes
+t89> Thread terminating after 86.0 minutes
+t17> Thread terminating after 86.0 minutes
+t16> Thread terminating after 86.0 minutes
+t9> Thread terminating after 86.0 minutes
+t92> Thread terminating after 86.0 minutes
+t49> Thread terminating after 86.0 minutes
+t72> Thread terminating after 86.0 minutes
+t41> Thread terminating after 86.0 minutes
+t22> Thread terminating after 86.0 minutes
+t79> Thread terminating after 86.0 minutes
+t90> Thread terminating after 86.0 minutes
+t69> Thread terminating after 86.0 minutes
+t8> Thread terminating after 86.0 minutes
+t31> Thread terminating after 86.0 minutes
+t30> Thread terminating after 86.0 minutes
+t68> Thread terminating after 86.0 minutes
+t82> Thread terminating after 86.0 minutes
+t91> Thread terminating after 86.0 minutes
+t21> Thread terminating after 86.0 minutes
+t63> Thread terminating after 86.0 minutes
+t2> Thread terminating after 86.0 minutes
+t75> Thread terminating after 86.0 minutes
+t87> Thread terminating after 86.0 minutes
+t57> Thread terminating after 86.0 minutes
+t10> Thread terminating after 86.0 minutes
+t26> Thread terminating after 86.0 minutes
+t81> Thread terminating after 86.0 minutes
+t62> Thread terminating after 86.0 minutes
+t4> Thread terminating after 86.0 minutes
+t61> Thread terminating after 86.0 minutes
+t20> Thread terminating after 86.0 minutes
+t6> Thread terminating after 86.0 minutes
+t83> Thread terminating after 86.0 minutes
+t28> Thread terminating after 86.0 minutes
+t77> Thread terminating after 86.0 minutes
+t78> Thread terminating after 86.0 minutes
+t56> Thread terminating after 86.0 minutes
+t65> Thread terminating after 86.0 minutes
+t86> Thread terminating after 86.0 minutes
+t84> Thread terminating after 86.0 minutes
+t64> Thread terminating after 86.0 minutes
+t34> Thread terminating after 86.0 minutes
+t47> Thread terminating after 86.0 minutes
+t88> Thread terminating after 86.0 minutes
+t18> Thread terminating after 86.0 minutes
+t44> Thread terminating after 86.0 minutes
+t71> Thread terminating after 86.0 minutes
+t1> Thread terminating after 86.0 minutes
+t25> Thread terminating after 86.0 minutes
+t37> Thread terminating after 86.0 minutes
+t54> Thread terminating after 86.0 minutes
+t7> Thread terminating after 86.0 minutes
+t73> Thread terminating after 86.0 minutes
+t5> Thread terminating after 86.0 minutes
+t38> Thread terminating after 86.0 minutes
+t80> Thread terminating after 86.0 minutes
+t60> Thread terminating after 86.0 minutes
+t50> Thread terminating after 86.0 minutes
+t13> Thread terminating after 86.0 minutes
+t46> Thread terminating after 86.0 minutes
+t93> Thread terminating after 86.0 minutes
+t19> Thread terminating after 86.0 minutes
+t35> Thread terminating after 86.0 minutes
+t11> Thread terminating after 86.0 minutes
+t40> Thread terminating after 86.0 minutes
+t51> Thread terminating after 86.0 minutes
+t70> Thread terminating after 86.0 minutes
+t52> Thread terminating after 86.0 minutes
+t59> Thread terminating after 86.0 minutes
+t85> Thread terminating after 86.0 minutes
+t53> Thread terminating after 86.3 minutes
+t67> Thread terminating after 86.3 minutes
+t36> Thread terminating after 86.3 minutes
+Samples: 4021.2 billion (776.7 mps) - result: 0.6534264644451231
+t0> Thread terminating after 86.3 minutes
+t24> Thread terminating after 86.3 minutes
+t45> Thread terminating after 86.3 minutes
+t39> Thread terminating after 86.3 minutes
+t12> Thread terminating after 86.3 minutes
+t29> Thread terminating after 86.3 minutes
+t76> Thread terminating after 86.3 minutes
+t42> Thread terminating after 86.3 minutes
+t14> Thread terminating after 86.3 minutes
+t27> Thread terminating after 86.3 minutes
+t95> Thread terminating after 86.3 minutes
+t33> Thread terminating after 86.3 minutes
+t48> Thread terminating after 86.3 minutes
+t74> Thread terminating after 86.3 minutes
+t94> Thread terminating after 86.3 minutes
+t3> Thread terminating after 86.3 minutes
+t66> Thread terminating after 86.3 minutes
+t23> Thread terminating after 86.3 minutes
+Total Samples: 4025726533632
+Total Evens: 2630516269379
+Final Ratio: 0.6534264678444900
+Sun May 24 22:55:15 2020 > Ending
+
+Executing compute has finished at Sun May 24 22:55:15 UTC 2020
+Stopping runme.sh at Sun May 24 22:55:15 UTC 2020
+--------------------------------------------------
+Completed 16.0 KiB/16.0 KiB (173.3 KiB/s) with 1 file(s) remainingupload: ./output.txt to s3://statnet/logs/output_05-24-2020_22-55-15_az49565i.txt
