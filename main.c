@@ -201,8 +201,8 @@ void * __attribute__((noreturn)) termination_notice(void * tID)
             o("Total Samples: %lu\nTotal Evens: %lu\nFinal Ratio: %.16f\n", total_counter, total_even, total_even / (double)total_counter);
             pthread_spin_unlock(&cstotals);
 
-            e("aws s3 cp runme.txt s3://" AWS_S3_BUCKET_PATH "/logs/term_runme_$(date +\"%m_%d_%Y_%H_%M_%S_%N\").txt");
-            e("aws s3 cp output.txt s3://" AWS_S3_BUCKET_PATH "/logs/term_output_$(date +\"%m_%d_%Y_%H_%M_%S_%N\").txt");
+            e("aws s3 cp runme.txt s3://" AWS_S3_BUCKET_NAME "/logs/term_runme_$(date +\"%m_%d_%Y_%H_%M_%S_%N\").txt");
+            e("aws s3 cp output.txt s3://" AWS_S3_BUCKET_NAME "/logs/term_output_$(date +\"%m_%d_%Y_%H_%M_%S_%N\").txt");
 
             o("\n%s > Exiting from termination notice\n\n", datetime(buf));
 
